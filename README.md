@@ -1,0 +1,2 @@
+# NodeJsWithTypeScriptArchetype
+Minimal project setup
